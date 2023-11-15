@@ -1,0 +1,2 @@
+# soccershop
+projeto pensamento computacional
